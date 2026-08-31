@@ -50,6 +50,17 @@ LLM agent workflows with tool use.
 
 ---
 
+### [Computer Vision](./computer_vision/)
+> [README](./computer_vision/README.md)
+
+Image and video analysis using deep learning.
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| Coming Soon | Image classification / Object detection | CNN, YOLO, PyTorch |
+
+---
+
 ## Run Notebooks
 
 ### 1. Google Colab
