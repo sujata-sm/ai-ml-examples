@@ -60,7 +60,10 @@ Image and video analysis using deep learning.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| Coming Soon | Image classification / Object detection | CNN, YOLO, PyTorch |
+| Image Recognition | Image classification and recognition | CNN, TensorFlow, Keras |
+| Object Detection | Detecting objects in images | YOLO, PyTorch |
+
+**Key Skills:** CNN, Image Classification, Feature Extraction, Transfer Learning
 
 ---
 
