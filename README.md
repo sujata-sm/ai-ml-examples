@@ -46,7 +46,10 @@ LLM agent workflows with tool use.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| Coming Soon | Multi-step agent workflows | LangGraph, OpenAI, FastAPI |
+| [Calculator Agent](./agents/calculator_tool_agent/) | Intro to tool calling | LangChain, Gemini |
+| [ReAct Research Agent](./agents/react_research_agent/) | Web search with reasoning | LangGraph, Gemini, Tavily |
+
+**Key Skills:** Tool Calling, ReAct Pattern, LangGraph State Management, Streaming
 
 ---
 
